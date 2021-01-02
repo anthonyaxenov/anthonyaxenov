@@ -28,5 +28,5 @@ Feel free to contact me via:
 ## Socials
 
 You can also find me there:
-* Twitter: @anthonyaxenov
-* Instagram: @anthonyaxenov
+* Twitter: [@anthonyaxenov](https://twitter.com/anthonyaxenov/)
+* Instagram: [@anthonyaxenov](https://www.instagram.com/anthonyaxenov/)
