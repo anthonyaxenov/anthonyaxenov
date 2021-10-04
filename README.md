@@ -6,18 +6,20 @@ Now working in BARS Group, JSC.
 
 Languages: 🇷🇺 / 🇬🇧
 
-Stack: `bash` / `git` / `docker` / `php` / `laravel` / `mysql` / `pgsql` / `apache` / `nginx` / `phpstorm` / `xdebug` / `sphinxsearch` / `doxygen` / `delphi` / `lazarus` / `rest` / `api` / `zabbix`
+Main specialization - backend.
+
+I have experience in e-commerce and government healthcare-solutions development, RESTful APIs, server monitoring and maintenance, and special business solutions (such as sending SMS via an asterisk gateway or ticket terminals).
 
 ## Projects
 
-You can find some of my old pet-projects and actual ones in my profile.
+You can find some of my old pet-projects and actual ones in my gh-profile and in my [self-hosted gitea](http://git.anthonyaxenov.ru/explore/repos).
 Projects listed below are actual and working (at least for now):
-* [blog.anthonyaxenov.ru](https://blog.anthonyaxenov.ru) 🇷🇺
-* [@axenov_blog](https://t.me/axenov_blog) 🇷🇺
-* [@gastrologbot](https://t.me/@gastrologbot) 🇷🇺
-* [axenov/atol-online](https://packagist.org/packages/axenov/atol-online) 🇷🇺
-* [abtool.ru](https://abtool.ru) 🇷🇺
-* [Free IPTV playlists](http://bur-it.ru/iptv) 🇷🇺
+* 🇷🇺 [blog.anthonyaxenov.ru](https://blog.anthonyaxenov.ru)
+* 🇷🇺 [@axenov_blog](https://t.me/axenov_blog)
+* 🇷🇺 [@gastrologbot](https://t.me/@gastrologbot)
+* 🇷🇺 [axenov/atol-online](https://packagist.org/packages/axenov/atol-online)
+* 🇷🇺 [abtool.ru](https://abtool.ru)
+* 🇷🇺 [Free IPTV playlists](http://bur-it.ru/iptv)
 
 ## Contacts
 
