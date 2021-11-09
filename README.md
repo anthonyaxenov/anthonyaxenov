@@ -1,12 +1,10 @@
 # Anthony Axenov
 
 Hi. 
-I am fullstack web developer. 
+I am backend developer. 
 Now working in BARS Group, JSC.
 
 Languages: 🇷🇺 / 🇬🇧
-
-Main specialization - backend.
 
 I have experience in e-commerce and government healthcare-solutions development, RESTful APIs, server monitoring and maintenance, and special business solutions (such as sending SMS via an asterisk gateway or ticket terminals).
 
