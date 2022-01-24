@@ -3,8 +3,6 @@
 Hi. 
 I am backend developer.
 
-Languages: 🇷🇺 / 🇬🇧
-
 I have experience in e-commerce and government healthcare-solutions development, RESTful APIs, server monitoring and maintenance, and special business solutions (such as sending SMS via an asterisk gateway or ticket terminals).
 
 ## Projects
@@ -22,4 +20,6 @@ Projects listed below are actual and working (at least for now):
 
 Feel free to contact me via **Telegram**: [@anthonyaxenov](https://t.me/anthonyaxenov).
 
-You can also find me in Instagram: [@anthonyaxenov](https://www.instagram.com/anthonyaxenov/)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyaxenov&layout=compact&hide_border=true&langs_count=8&theme=dark" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=anthonyaxenov&layout=compact&show_icons=true&hide_border=true&theme=dark" />
