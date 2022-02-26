@@ -14,7 +14,7 @@ Projects listed below are actual and working (at least for now):
 * 🇷🇺 [@gastrologbot](https://t.me/@gastrologbot)
 * 🇷🇺 [axenov/atol-online](https://packagist.org/packages/axenov/atol-online)
 * 🇷🇺 [abtool.ru](https://abtool.ru)
-* 🇷🇺 [Free IPTV playlists](http://bur-it.ru/iptv)
+* 🇷🇺 [Free IPTV playlists](https://iptv.axenov.dev)
 
 ## Contacts
 
