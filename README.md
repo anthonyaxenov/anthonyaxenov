@@ -15,7 +15,6 @@ Projects listed below are actual and working (at least for now):
 * 🇷🇺 [@axenov_blog](https://t.me/axenov_blog)
 * 🇷🇺 [Free IPTV playlists](https://iptv.axenov.dev)
 * 🇬🇧 [my-env](https://github.com/anthonyaxenov/my-env)
-* 🇬🇧 [BlessPHP](https://github.com/anthonyaxenov/blessphp)
 * 🇬🇧 [csv2md](https://github.com/anthonyaxenov/csv2md)
 * 🇷🇺 [axenov/atol-online](https://packagist.org/packages/axenov/atol-online)
 
